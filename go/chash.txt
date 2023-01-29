@@ -1,0 +1,3 @@
+https://medium.com/codex/understanding-and-implementing-consistent-hash-algorithm-e53a35afa428
+https://faun.pub/consistent-hash-algorithm-and-go-implementation-a5a01d84845a
+https://www.acodersjourney.com/system-design-interview-consistent-hashing/
